@@ -8,5 +8,5 @@ This package is written in ES2016 and has been built for multiple platforms. Pic
 To install this package run:
 
 ```bash
-npm install @mickvangelderen/example-package
+npm install @mickvangelderen/example-package-node6
 ```
