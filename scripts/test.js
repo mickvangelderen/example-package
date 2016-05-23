@@ -1,3 +1,3 @@
-import testHello from '../src/index.test'
+var testHello = require('../lib/index.test').default
 
 testHello()

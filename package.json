@@ -1,11 +1,12 @@
- {
+{
   "name": "@mickvangelderen/example-package",
   "version": "0.1.0",
   "description": "A package example.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "npm prune && npm update && babel-node scripts/test",
-    "build": "babel src --out-dir lib --ignore \"*.test.js\"",
+    "test": "npm prune && npm update && npm run clean && npm run build && node scripts/test",
+    "build": "babel src --out-dir lib",
+    "clean": "rm -rf lib",
     "preversion": "npm run test",
     "prepublish": "npm run build"
   },
