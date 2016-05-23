@@ -8,6 +8,7 @@
     "build": "babel src --out-dir lib",
     "clean": "rm -rf lib",
     "merge-all": "/usr/bin/env bash scripts/merge-all.sh",
+    "publish-all": "/usr/bin/env bash scripts/publish-all.sh",
     "preversion": "npm run test",
     "prepublish": "npm run test"
   },
