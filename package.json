@@ -1,7 +1,7 @@
 {
   "name": "@mickvangelderen/example-package",
   "description": "A package example.",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm prune && npm update && npm run clean && npm run build && node scripts/test",
