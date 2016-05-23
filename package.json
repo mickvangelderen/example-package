@@ -16,6 +16,9 @@
     "type": "git",
     "url": "https://github.com/mickvangelderen/example-package.git"
   },
+  "engines": {
+    "npm": "^3.0.0"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.9.0",
