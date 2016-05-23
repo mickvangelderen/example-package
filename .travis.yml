@@ -3,3 +3,11 @@ node_js:
   - "0.12"
 before_install:
   - npm install --global npm@3
+branches:
+  only:
+    - master
+    - node4
+    - node5
+    - node6
+git:
+  depth: 1
