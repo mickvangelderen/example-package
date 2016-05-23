@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mickvangelderen/example-package.svg)](https://travis-ci.org/mickvangelderen/example-package)
+[![Build Status](https://travis-ci.org/mickvangelderen/example-package.svg?branch=node6)](https://travis-ci.org/mickvangelderen/example-package)
 
 # Installation
 
