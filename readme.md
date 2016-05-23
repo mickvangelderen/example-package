@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mickvangelderen/example-package.svg)](https://travis-ci.org/mickvangelderen/example-package)
+
 # Installation
 
 This package is written in ES2016 and has been built for multiple platforms. Pick the right version from the following list:
