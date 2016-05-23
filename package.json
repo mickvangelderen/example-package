@@ -1,6 +1,6 @@
 {
   "name": "@mickvangelderen/example-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A package example.",
   "main": "lib/index.js",
   "scripts": {
